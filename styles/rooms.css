@@ -1,0 +1,50 @@
+header img {
+  /* background-image: url(../img/hotel\ picture.png); */
+  width: 100%;
+}
+.carry {
+  display: flex;
+}
+i {
+  color: #e3b53f;
+  /* background-color: #e3b53f; */
+}
+.fa {
+  margin-left: 5px;
+}
+.About {
+  display: flex;
+}
+.About h4 {
+  margin-right: 50px;
+}
+.About h4:hover {
+  cursor: pointer;
+  margin-right: 50px;
+  color: #e3b53f;
+  margin-bottom: 2px solid #e3b53f;
+}
+.Standard {
+  display: flex;
+  justify-content: space-between;
+}
+/* .Standard img {
+  width: 150%;
+} */
+.p {
+  font-size: large;
+  color: #e3b53f;
+}
+.pikin {
+  display: none;
+}
+.carrier {
+  display: flex;
+  justify-content: space-between;
+}
+.pixture {
+  border-radius: 20px;
+  width: 100%;
+  margin-left: 10px;
+  margin-right: 40px;
+}
