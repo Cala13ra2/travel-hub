@@ -46,5 +46,40 @@ i {
   border-radius: 20px;
   width: 100%;
   margin-left: 10px;
-  margin-right: 40px;
+  /* margin-right: 40px; */
+}
+h5 {
+  font-size: bolder;
+}
+button {
+  /* display: flex;
+  justify-content: end;
+  align-self: end; */
+  background-color: orangered;
+  color: white;
+  border: none;
+  margin-left: 200px;
+  width: 150px;
+  border-radius: 10px;
+  height: 50px;
+}
+.rev {
+  background-color: #efebeb;
+  margin-bottom: 20px;
+  height: 150px;
+}
+.profile {
+  display: flex;
+  justify-content: space-between;
+}
+.span {
+  margin-top: 20px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  margin-bottom: 19px solid black;
+  color: #e3b53f;
 }
