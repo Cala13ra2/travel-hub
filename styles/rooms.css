@@ -66,7 +66,7 @@ button {
 .rev {
   background-color: #efebeb;
   margin-bottom: 20px;
-  height: 150px;
+  height: 200px;
 }
 .profile {
   display: flex;
@@ -82,4 +82,7 @@ a {
 a:hover {
   margin-bottom: 19px solid black;
   color: #e3b53f;
+}
+span {
+  font-size: small;
 }
