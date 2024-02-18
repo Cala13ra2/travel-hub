@@ -86,3 +86,6 @@ a:hover {
 span {
   font-size: small;
 }
+#bottom-navigation {
+  background-color: orangered;
+}
